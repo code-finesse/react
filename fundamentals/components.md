@@ -6,7 +6,7 @@
 - rsc extension is clutch
 - class should be rewritten as className
 - arrays need curly brackets around straight brackets
-- vanilla javascript can be written in curly brackets (sometimes?)
+- vanilla javascript can be written in curly brackets (most of the time)
 
 ## How to Setup & Make Things Appear on the Screen:
 
