@@ -70,7 +70,8 @@
 
 # React Context
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a7dac96-5071-45b2-8ced-92120f61b0d5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a7dac96-5071-45b2-8ced-92120f61b0d5/Untitled.png)
+![image](https://user-images.githubusercontent.com/71715721/104232069-c755b600-541d-11eb-8b09-f2dc5c0b53ab.png)
+
 
 - props can only be seen in children components after it is passed down
 - context provides a way to share values between components without having to explicitly pass a prop through every level of the tree
