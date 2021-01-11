@@ -1,16 +1,19 @@
-- Copy and Paste Code
-    - Context.js
+<details>
+<summary>Copy and Paste Code</summary>
+<br>
 
-        ```jsx
-        import { createContext } from 'react'
+- Context.js
 
-        export const TokenContext = createContext(null)
-        ```
+```
+ import { createContext } from 'react'
 
-    - App.js
+export const TokenContext = createContext(null)
+```
 
-        ```jsx
-        import React, { useState, useEffect } from 'react'
+- App.js
+
+```
+import React, { useState, useEffect } from 'react'
         import './App.css';
         import axios from 'axios'
         import Page from './components/Page'
@@ -39,12 +42,12 @@
         }
 
         export default App;
-        ```
+```
 
-    - Page.js
+- Page
 
-        ```jsx
-        import React, { useContext } from 'react';
+```
+   import React, { useContext } from 'react';
         import { TokenContext } from '../TokenContext'
 
         const Page = () => {
@@ -66,7 +69,12 @@
         };
 
         export default Page;
-        ```
+```
+
+
+</details>
+
+
 
 # React Context
 
@@ -133,17 +141,27 @@ Steps to set up Context
     ```
 
 10. now that variable can be used wherever in the component you have imported it to
-- import variable as regular variable
 
-    ```jsx
-    const userInfo = useContext(UserContext)
-    ```
+<details>
+<summary>import variable as regular variable</summary>
+<br>
 
-- import variable as useState
+```
+const userInfo = useContext(UserContext)
+```
+</details>
 
-    ```jsx
-    const {userInfo, SetUser} = useContext(UserContext)
-    ```
+<details>
+<summary>import variable as useState</summary>
+<br>
+
+```
+const {userInfo, SetUser} = useContext(UserContext)
+```
+</details>
+<br>
+
+
 
 ### **Summary**
 
