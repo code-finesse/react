@@ -105,6 +105,7 @@ There are a few things we have to remember when creating components in React.
 - You can surround any return value in parenthesis to break it on to multiple lines.
 - To import a custom component, use the relative path to the file. All component imports must start with `./` to reference the current directory, or `../` to reference a parent directory.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7071b9f3-4fea-4e96-a686-adbc3649282c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7071b9f3-4fea-4e96-a686-adbc3649282c/Untitled.png)
+![image](https://user-images.githubusercontent.com/71715721/104229471-55c83880-541a-11eb-88ca-6ff581ef3e72.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/103ecb27-b37a-4ee4-9574-258850c207d9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/103ecb27-b37a-4ee4-9574-258850c207d9/Untitled.png)
+
+![image](https://user-images.githubusercontent.com/71715721/104229531-65e01800-541a-11eb-8a2f-6bdcede34c52.png) 
